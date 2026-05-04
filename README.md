@@ -1,19 +1,17 @@
 # Final project - A personal blogging system - Team Try Catch Me
 
-This repository contains a starting point for your team's final project. We look forward to seeing your progress and your final results this semester!
+This was a team project I participated in during the first semester of my master's program. The project adopts a modern frontend-backend separation architecture, with the frontend built using Svelte and the backend developed with Node.js/Express and a SQL database. It integrates features such as real-time notifications, article management, user authentication, and interactive comments. 
 
-Your team should update this README to include the information required, as presented in the project handout available on Canvas.
+This project demonstrates my practical experience in full-stack development, teamwork, and project management, and it was my very first team-based software development project.
 
-Your team members are:
-- Musyafa Muhammad _(mmuh470@aucklanduni.ac.nz)_
-- Aidil Muslim _(amus790@aucklanduni.ac.nz)_
-- Manu R _(msri874@aucklanduni.ac.nz)_
-- Yang Wu _(ywu329@aucklanduni.ac.nz)_
+
+My team members are:
+- Musyafa Muhammad
+- Aidil Muslim 
+- Manu R 
+- Yang Wu 
 
 ## Development Environment Setup & Commit Guidelines
-
-It is important each team member has the right development environment setup on their computer.
-Please update this with any other processes your group is following.
 
 Extensions to install:
 
@@ -200,5 +198,3 @@ Here is the procedure of how to user the Java Swing admin client
 
     e. We do hope your feedback and suggestion for our learning references in the future.
 
-
-![](./Try%20Catch%20Me.png)
