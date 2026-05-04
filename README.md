@@ -4,6 +4,7 @@ This was a team project I participated in during the first semester of my master
 
 This project demonstrates my practical experience in full-stack development, teamwork, and project management, and it was my very first team-based software development project.
 
+---
 
 My team members are:
 - Musyafa Muhammad
